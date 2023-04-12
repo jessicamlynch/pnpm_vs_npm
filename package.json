@@ -1,0 +1,23 @@
+{
+  "name": "pnpm_vs_npm",
+  "version": "1.0.0",
+  "description": "Demo of pnpm vs npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicamlynch/pnpm_vs_npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicamlynch/pnpm_vs_npm/issues"
+  },
+  "homepage": "https://github.com/jessicamlynch/pnpm_vs_npm#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0"
+  }
+}
